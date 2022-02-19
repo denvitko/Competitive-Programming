@@ -1,5 +1,5 @@
 # Competitive Programming
-Competitive Programming Resources
+> Competitive Programming Resources
 
 * [Language documentation](resources/documentation.md)
 * [Books](resources/books.md)
